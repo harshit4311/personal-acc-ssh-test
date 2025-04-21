@@ -1,1 +1,1 @@
-hello, we're testing the ssh keys for our peronal acc
+hello, we're testing the ssh-keys for our personal acc
